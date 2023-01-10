@@ -1,6 +1,7 @@
 # IOS_StudyCode
 
-IOS Swift UIKIt 공부한 실습 클론 코딩 코드\n
+IOS Swift UIKIt 공부한 실습 클론 코딩 코드
+
 📌 클론 코딩 출처 : 앨런 iOS 아이폰 앱 개발 (15개의 앱을 만들면서 근본원리부터 배우는 UIKit)
 
 # ❓ Clone Coding 을 시작하게 된 이유?
